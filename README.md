@@ -1,2 +1,2 @@
 # ionic-videoplayer
-this project is ionic videoplayer plugin example fro cordova device
+this project is ionic videoplayer plugin example for cordova device
